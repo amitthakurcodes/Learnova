@@ -67,7 +67,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
     
     <body>
         <div class="container">
-            <a href="https://studynotion-edtech-project.vercel.app"><img class="logo" src="https://dummyimage.com/200x60/4f46e5/ffffff&text=Learnova"
+            <a href="http://13.235.2.59/"><img class="logo" src="https://dummyimage.com/200x60/4f46e5/ffffff&text=Learnova"
                     alt="Learnova Logo"></a>
             <div class="message">Course Registration Confirmation</div>
             <div class="body">
@@ -76,7 +76,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
                     are excited to have you as a participant!</p>
                 <p>Please log in to your learning dashboard to access the course materials and start your learning journey.
                 </p>
-                <a class="cta" href="https://studynotion-edtech-project.vercel.app/dashboard">Go to Dashboard</a>
+                <a class="cta" href="http://13.235.2.59/dashboard">Go to Dashboard</a>
             </div>
             <div class="support">If you have any questions or need assistance, please feel free to reach out to us at <a
                     href="mailto:info@learnova.com">info@learnova.com</a>. We are here to help!</div>
